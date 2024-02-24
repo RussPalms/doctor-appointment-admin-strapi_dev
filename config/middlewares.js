@@ -13,6 +13,7 @@ module.exports = [
             "blob:",
             "market-assets.strapi.io",
             "res.cloudinary.com",
+            "tasteful-flowers-f567ebd213.strapiapp.com",
           ],
           "media-src": [
             "'self'",
@@ -20,6 +21,7 @@ module.exports = [
             "blob:",
             "market-assets.strapi.io",
             "res.cloudinary.com",
+            "tasteful-flowers-f567ebd213.strapiapp.com",
           ],
           upgradeInsecureRequests: null,
         },
