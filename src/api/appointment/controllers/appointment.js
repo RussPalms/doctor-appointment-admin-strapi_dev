@@ -1,9 +1,9 @@
-'use strict';
+"use strict";
 
 /**
  * appointment controller
  */
 
-const { createCoreController } = require('@strapi/strapi').factories;
+const { createCoreController } = require("@strapi/strapi").factories;
 
-module.exports = createCoreController('api::appointment.appointment');
+module.exports = createCoreController("api::appointment.appointment");

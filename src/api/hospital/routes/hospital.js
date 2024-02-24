@@ -1,9 +1,9 @@
-'use strict';
+"use strict";
 
 /**
  * hospital router
  */
 
-const { createCoreRouter } = require('@strapi/strapi').factories;
+const { createCoreRouter } = require("@strapi/strapi").factories;
 
-module.exports = createCoreRouter('api::hospital.hospital');
+module.exports = createCoreRouter("api::hospital.hospital");

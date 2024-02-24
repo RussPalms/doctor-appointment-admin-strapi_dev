@@ -1,9 +1,9 @@
-'use strict';
+"use strict";
 
 /**
  * slider controller
  */
 
-const { createCoreController } = require('@strapi/strapi').factories;
+const { createCoreController } = require("@strapi/strapi").factories;
 
-module.exports = createCoreController('api::slider.slider');
+module.exports = createCoreController("api::slider.slider");
